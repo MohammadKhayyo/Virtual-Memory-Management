@@ -1,5 +1,4 @@
-// Mohammad Khayyo
-// 211558895
+
 
 // libraries that used in this exercise
 #include <iostream>
